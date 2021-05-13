@@ -3,7 +3,7 @@
   "references": [],
   "optionalUnityReferences": [],
   "includePlatforms": [
-    "Editor","Android","iOS","StandAlone"
+    "Editor"
   ],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
