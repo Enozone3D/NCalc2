@@ -1,0 +1,14 @@
+{
+  "name": "NCalc2",
+  "references": [],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor","Android","iOS","StandAlone"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": []
+}
