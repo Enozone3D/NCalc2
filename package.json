@@ -1,0 +1,11 @@
+{
+    "name": "com.sklose.ncalc2",
+    "displayName": "NCalc 2",
+    "version": "2.2.92",
+    "unity": "2019.4",
+    "description": "Ncalc upgrade to work on mobile",
+    "keywords": ["NCALC"],
+    "category": "Math",
+    "dependencies": {
+    }
+}
